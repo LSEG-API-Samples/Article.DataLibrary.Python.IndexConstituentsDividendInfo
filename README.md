@@ -1,4 +1,4 @@
-# [Retrieving Index Constituents Dividend information - Python](https://developers.lseg.com/en/article-catalog/article/retrieving-index-constituents-dividend-information-python)
+# [Retrieving Index Constituents Dividend information - Python](https://developers.lseg.com/en/article-catalog/article/retrieving-index-constituents-dividend-information-with-python)
 Imagine you're building a financial application that needs to track dividends paid by the companies within major stock indices like the S&P 500, FRSE 100, or Nikkei 225. This information is crucial for a variety of financial calculations, risk assessments, and investment strategies.
 
 However, how do you efficiently gather this data and integrate it into your Python-based application?
